@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bobby Turner</h1>
 <h3 align="center">A systems administrator with Montgomery County in Ohio</h3>
 
-- 🔭 I’m currently working on: [a Discord bot to track MTG trades](https://github.com/FoldyHands/MagicTradingFloor)
+- 🔭 I’m currently working on: [a Discord bot to track MTG trades](https://github.com/BobbyTurnerDev/MagicTradingFloor)
 
 - 🌱 I’m currently learning: **Python, SQL, Ruby**
 
